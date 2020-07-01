@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("ggplot2", "ggplot", "aes_string", "geom_line", "theme_bw", "ylim", "labs", "geom_vline", "geom_hline", "aes", "geom_text", "theme", "scale_y_continuous", "element_blank")
+importFrom("desirability", "dOverall")
+importFrom("patchwork", "plot_layout")
+importFrom("graphics", "plot")
+importFrom("stats", "aggregate", "predict")

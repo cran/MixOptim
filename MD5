@@ -1,0 +1,16 @@
+bf25c1a9fe9f006f8f2a8bf98f5e0415 *DESCRIPTION
+31bab90a9df1786071ba4c42291780ae *NAMESPACE
+1e4eef6aee30db63c453f44b6419e5df *R/desirabilityPlot.R
+2abbdf59ac2909f3c026b93c89068407 *R/globals.R
+30181b63ed2651b8c562badd06003d70 *R/mixtureFineOptim.R
+4625c83761c759e9807a38d2ecb2b45c *R/mixtureOptim.R
+f80650dfc288a328a323a68b82984daf *R/mixtureRangeOptim.R
+9e6ec06a3ddcfc3079eb12d06b3370d3 *build/vignette.rds
+d9925837054923a5402b6165745a9be2 *inst/doc/basic.R
+6c2e516535f52ce4edba1b831aff3511 *inst/doc/basic.Rmd
+f88f03e121d05ff8dfd3c182124e511c *inst/doc/basic.html
+0742c4d89e48b0edaa6d78db37e20494 *man/desirabilityPlot.Rd
+a476abdaef9a6fcd48e1ac4c76f4c107 *man/mixtureFineOptim.Rd
+dc954900a2b2489ed0cd03dd6ebc1908 *man/mixtureOptim.Rd
+f00eae16aebfa55397ab293af2f9beda *man/mixtureRangeOptim.Rd
+6c2e516535f52ce4edba1b831aff3511 *vignettes/basic.Rmd
